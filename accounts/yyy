@@ -1,0 +1,7 @@
+if (mysqli_num_rows($query)==0) {
+                              echo "<b style='color:brown;'>Sorry there are no posts Yet :( We will be uploading new content soon! </b> ";
+                              }
+                            
+                          
+                          else
+                          {

@@ -1,0 +1,53 @@
+.sidebar.sidebar-style-2 .nav.nav-primary > .nav-item.active > a {
+    background: #fd961a !important;
+    box-shadow: 4px 4px 10px 0 rgba(253, 150, 26, 0.36),4px 4px 15px -5px rgba(253, 150, 26, 0.36) !important;
+}
+
+.logo-header[data-background-color="blue"] {
+    background: #fd961a !important;
+}
+
+.navbar-header[data-background-color="blue2"] {
+    background: #ea8813 !important;
+}
+
+.bg-primary-gradient {
+    background: #fd961a !important;
+    background: -webkit-linear-gradient(legacy-direction(-45deg),#9e5908,#fd961a) !important;
+    background: linear-gradient(-45deg,#9e5908, #fd961a) !important;
+}
+
+.btn-secondary:disabled, .btn-secondary:focus, .btn-secondary:hover {
+    background: #9e5908 !important;
+    border-color: #9e5908 !important;
+}
+
+.btn-primary {
+    background: #fd961a !important;
+    border-color: #fd961a !important;
+}
+
+.card-pricing.card-primary .btn-light {
+    color: #fd961a !important;
+}
+
+.card-primary {
+    background: #ea8813 !important;
+}
+
+.card-pricing.card-primary .specification-list li {
+    border-color: #fff !important;
+}
+
+.btn-secondary {
+    background: #ea8813 !important;
+    border-color: #ea8813 !important;
+}
+
+.modal-footer {
+    border-top: 1px solid #6f6f6f;
+}
+
+.modal-header {
+    border-bottom: 1px solid #6f6f6f;
+}
